@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kade07
-- 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Not sure, I'm still learning...LOL
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Python, JavaScript and Java.
+- 🌱 I’m currently learning ...Java....
+- 💞️ I’m looking to collaborate on ...anything A.I. related..
+- 📫 How to reach me ...kadecamcart@outlook.com
 
 <!---
 kade07/kade07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
