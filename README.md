@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kade07
-- #To improve is to change.
+- # To improve is to change.
 - 👀 I’m interested in ...Python, JavaScript and Machine Learning.
 - 🌱 I’m currently learning ...Machine Learning Engineer
 - 💞️ I’m looking to collaborate on ...anything A.I. related..
